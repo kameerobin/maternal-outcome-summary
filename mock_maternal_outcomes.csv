@@ -1,0 +1,6 @@
+year,num_matdeath_HF_month_new,totdth_new,num_hem_new,num_prolab_new,num_pree_new,num_uterrupt_new,num_still_hf_new,num_still_hf_macer_new,num_still_hf_fresh_new,num_neodth_24_new,num_neodth_week_new,num_neodth_fosa_mnth_new,del_obcomp_new,num_puerinf_new,num_csect_new,num_tx_compmnth_new,num_abort_compmnth_new,num_matdth_abort_new,num_matdth_hemor_new,num_matdth_pree_new,num_matdth_uterrupt_new,num_matdth_puerinf_new,num_matdth_prolab_new,num_nb_asph_atbirth_new,num_nb_asp_resusc_new,num_pre_lv_mnth_new,num_lb_2500_new,neodth_asph_new,neodth_neoinf_new,neodth_premat_new,neodth_other_new,del_comm_mnth_new,compvar_new,count
+2020,0,3,1,0,1,0,1,0,1,0,1,0,1,0,2,0,0,0,1,0,0,0,1,0,1,2,2,0,0,1,0,1,0,15
+2020,1,2,0,1,2,0,0,0,0,0,1,0,0,1,3,0,1,0,0,1,0,0,0,0,1,1,3,0,1,0,0,0,1,12
+2021,0,5,2,1,1,1,2,1,1,1,0,1,1,0,1,1,0,0,1,0,0,0,0,1,0,3,1,1,0,1,0,2,0,18
+2021,2,4,1,0,3,0,1,0,1,0,2,0,1,0,2,0,1,1,0,1,0,1,0,0,1,2,1,0,0,1,1,1,1,20
+2022,1,2,1,0,2,0,0,0,0,0,1,1,0,1,2,1,0,0,0,0,1,0,0,1,0,2,2,1,1,0,0,0,1,17
